@@ -21,6 +21,7 @@
 - 👀 I’m interested in Crypto,Blockchain,android,and web development
 - 🌱 I’m currently learning Algorithm and android development
 - 💞️ I’m looking to collaborate on Blockchain
+- 📄 Resume- <a href="https://drive.google.com/file/d/1IWIGmkkx5r5GaEcJGl7MZabed70CGAZc/view?usp=sharing" target="_blank">Click here</a>
 - 🧑‍💻 Hackerrank- www.hackerrank.com/raunaksingh
 - 🧑‍💻 CodeForces- https://codeforces.com/profile/RAUNAK554
 - 🧑‍💻 CodeChef- https://www.codechef.com/users/linux_c0der
